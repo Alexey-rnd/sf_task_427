@@ -1,0 +1,22 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "description text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexey-rnd/sf_task_427.git"
+  },
+  "author": "Alexey Chernov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexey-rnd/sf_task_427/issues"
+  },
+  "homepage": "https://github.com/Alexey-rnd/sf_task_427#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
